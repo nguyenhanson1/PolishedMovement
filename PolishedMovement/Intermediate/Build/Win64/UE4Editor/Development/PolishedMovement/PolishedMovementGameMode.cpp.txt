@@ -1,0 +1,13 @@
+D:\Repos\PolishedMovement\PolishedMovement\Intermediate\Build\Win64\UE4Editor\Development\PolishedMovement\Definitions.PolishedMovement.h
+d:\repos\polishedmovement\polishedmovement\source\polishedmovement\PolishedMovementGameMode.h
+D:\EpicGame\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGame\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Repos\PolishedMovement\PolishedMovement\Intermediate\Build\Win64\UE4Editor\Inc\PolishedMovement\PolishedMovementGameMode.generated.h
+d:\repos\polishedmovement\polishedmovement\source\polishedmovement\PolishedMovementCharacter.h
+D:\EpicGame\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\EpicGame\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\EpicGame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\EpicGame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Repos\PolishedMovement\PolishedMovement\Intermediate\Build\Win64\UE4Editor\Inc\PolishedMovement\PolishedMovementCharacter.generated.h

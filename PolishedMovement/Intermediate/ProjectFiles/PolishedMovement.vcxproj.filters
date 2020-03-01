@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PolishedMovement.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1529FB2A-B7A6-4681-A2C6-88064CF9685C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PolishedMovement.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PolishedMovementEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D0B113DF-A99A-4D10-BB4C-BAE3257C251F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PolishedMovement">
+      <UniqueIdentifier>{B8C3CF4B-E137-43E3-B082-AF8184AEEB18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PolishedMovement\PolishedMovement.Build.cs">
+      <Filter>Source\PolishedMovement</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PolishedMovement\PolishedMovement.cpp">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PolishedMovement\PolishedMovement.h">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PolishedMovement\PolishedMovementCharacter.cpp">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PolishedMovement\PolishedMovementCharacter.h">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PolishedMovement\PolishedMovementGameMode.cpp">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PolishedMovement\PolishedMovementGameMode.h">
+      <Filter>Source\PolishedMovement</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

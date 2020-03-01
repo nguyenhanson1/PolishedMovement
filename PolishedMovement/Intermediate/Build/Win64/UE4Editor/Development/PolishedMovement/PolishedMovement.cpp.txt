@@ -1,0 +1,2 @@
+D:\Repos\PolishedMovement\PolishedMovement\Intermediate\Build\Win64\UE4Editor\Development\PolishedMovement\Definitions.PolishedMovement.h
+d:\repos\polishedmovement\polishedmovement\source\polishedmovement\PolishedMovement.h
